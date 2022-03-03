@@ -1,4 +1,4 @@
-# ether_app
+# ether_app bhai bhai
 
 A new Flutter project.
 
